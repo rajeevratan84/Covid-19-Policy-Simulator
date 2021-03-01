@@ -4,6 +4,9 @@ A simple RShiny App that simulates changes in covid-19 infection rates when gove
 
 It uses a simple SIR model and changes in policy correspond to changes in Rnaught.
 
+It outputs cases over time, showing the periods of policy change (dotted line).
+
+!()[https://raw.githubusercontent.com/rajeevratan84/Covid-19-Policy-Simulator/main/Cases.png]
 
 
 **Parameters Used for SIR Model:**
