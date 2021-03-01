@@ -2,6 +2,12 @@
 
 A simple RShiny App that simulates changes in covid-19 infection rates when government restriction policies change. It can be adapted for any country, however this version is tailored specifically for Trinidad and Tobago. 
 
+**Live Demo** - https://rajeev-ratan.shinyapps.io/Trinidad_Covid19_SIR/
+
+#### Installation
+
+Install required libaries and run the app.r file.
+
 It uses a simple SIR model and changes in policy correspond to changes in Rnaught.
 
 ### Full Dashboard
