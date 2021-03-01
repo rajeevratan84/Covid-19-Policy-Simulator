@@ -13,7 +13,8 @@ It uses a simple SIR model and changes in policy correspond to changes in Rnaugh
 ![](https://raw.githubusercontent.com/rajeevratan84/Covid-19-Policy-Simulator/main/Cases.png)
 
 2. What happens if we didn't have any lockdowns?
-![](https://raw.githubusercontent.com/rajeevratan84/Covid-19-Policy-Simulator/main/policy.png)
+3. 
+![](https://raw.githubusercontent.com/rajeevratan84/Covid-19-Policy-Simulator/main/without_lockdown.png)
 
 ### Inputs (3 Phases in this version)
 ![](https://raw.githubusercontent.com/rajeevratan84/Covid-19-Policy-Simulator/main/policy.png)
